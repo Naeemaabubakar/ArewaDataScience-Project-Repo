@@ -1,2 +1,2 @@
-# ArewaDataScience
-Arewa Data Science Bootcamp
+### ArewaDataScience Project Repo
+
