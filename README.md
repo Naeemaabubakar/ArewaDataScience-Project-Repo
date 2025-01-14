@@ -1,4 +1,4 @@
-### This repository is Project-based 
+# This repository is Project-based 
 
 # Student Lifestyle Dataset Analysis
 
@@ -39,17 +39,7 @@ This project provided valuable insights into student lifestyle habits and their 
 
 ---
 
-**Note**: Be sure to replace "study_hours" and "score" with actual column names from your dataset. You can also tailor the insights based on the specific patterns you uncover in your EDA.
 
----
 
-### **Step 6: Pushing the Code to GitHub**
-To push the project to GitHub:
-1. Initialize a git repository in your project folder.
-2. Add your files:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit with EDA and visualizations"
 
 
