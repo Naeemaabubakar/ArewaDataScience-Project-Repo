@@ -1,6 +1,10 @@
 # THIS REPOSITORY IS FOR PYTHON PROGRAMMING PROJECT
 
 # Student Lifestyle Dataset Analysis
+## Dataset
+The dataset used in this project is the **Student Lifestyle Dataset**, which was downloaded from Kaggle:  
+[Student Lifestyle Dataset - Kaggle](https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset)
+
 
 ## Project Overview
 This project involves performing an **Exploratory Data Analysis (EDA)** on the "Student Lifestyle Dataset," which includes various attributes related to students' study hours, lifestyle habits, and academic performance. The goal is to analyze and visualize the data to uncover patterns and relationships between the different features, as well as gain insights into the lifestyle choices of students.
