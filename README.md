@@ -1,4 +1,4 @@
-# This repository is Project-based 
+# THIS REPOSITORY IS FOR PYTHON PROGRAMMING PROJECT
 
 # Student Lifestyle Dataset Analysis
 
